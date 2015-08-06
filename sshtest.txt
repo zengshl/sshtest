@@ -1,2 +1,6 @@
+<<<<<<< .mine
 fujian nonglin daxue BBS
+=======
+fujian nonglin daxue----1111111
+>>>>>>> .theirs
 
